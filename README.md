@@ -1,7 +1,7 @@
 ##Open Image Processing (OIP)
 
 * **uchat**
-![Terminal Message](https://github.com/abudawud/uchat/blob/master/doc/sc.png)
+![Bitmap OIP](https://github.com/abudawud/oip/blob/master/doc/oip.png)
 
 ##AUTHOR
 written by Ahmad Waris Al H.
